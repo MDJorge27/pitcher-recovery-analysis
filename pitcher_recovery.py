@@ -1,2 +1,1 @@
-
-print("Chart saved!")
+print("\nChart saved!")
